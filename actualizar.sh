@@ -8,6 +8,6 @@ sudo apt autoclean -y
 echo "📦 Actualizando Flatpak (Apps modernas)..."
 flatpak update -y
 
-echo "✅ Todo actualizado. Tu Toyota está al 100%."
+echo "✅ Todo actualizado"
 
 
